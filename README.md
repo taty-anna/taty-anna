@@ -1,5 +1,5 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tatyana ===============================================================================================================================  
-## Data scientist specialising in energy systems ⚡️🔋 --------------------------------------------------  
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tatyana 
+## Data scientist specialising in energy systems ⚡️🔋
 
 I leverage data-driven insights to enhance energy efficiency and support sustainable practices. With a strong background in statistics, machine learning, and optimization, I tackle complex energy challenges and develop innovative solutions to combat climate change. 
 
