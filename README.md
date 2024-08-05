@@ -12,10 +12,6 @@ I leverage data-driven insights to enhance energy efficiency and support sustain
 
 🌟 I'm driven by a commitment to sustainability and innovation, always exploring new ways to apply data science to make the world a better place. Let's connect and collaborate on exciting energy projects! 🚀
 
-### Skills  
-
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p>
-
 <!--
 **taty-anna/taty-anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
